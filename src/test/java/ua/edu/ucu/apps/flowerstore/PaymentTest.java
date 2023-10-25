@@ -7,7 +7,7 @@ import ua.edu.ucu.apps.flowerstore.payment.CreditCardPaymentStrategy;
 import ua.edu.ucu.apps.flowerstore.payment.PayPalPaymentStrategy;
 import ua.edu.ucu.apps.flowerstore.payment.Payment;
 
-class PaymentStrategyTests {
+class PaymentTest {
 
     private static Payment creditCardPaymentMethod;
     private static Payment payPalPaymentMethod;
