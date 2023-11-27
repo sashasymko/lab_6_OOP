@@ -1,7 +1,7 @@
 
-package ua.edu.ucu.apps.flowerstore.items;
-import ua.edu.ucu.apps.flowerstore.delivery.Delivery;
-import ua.edu.ucu.apps.flowerstore.payment.Payment;
+package ua.edu.ucu.apps.flowerstore.Items;
+import ua.edu.ucu.apps.flowerstore.Delivery.Delivery;
+import ua.edu.ucu.apps.flowerstore.Payment.Payment;
 
 import java.util.ArrayList;
 public class Order {
