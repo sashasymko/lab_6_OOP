@@ -1,4 +1,5 @@
-package ua.edu.ucu.apps.flowerstore.Payment;
+package ua.edu.ucu.apps.flowerstore.payment;
+
 import lombok.Getter;
 @Getter
 public class PayPalPaymentStrategy implements Payment {
